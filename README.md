@@ -1,6 +1,15 @@
-# React + Vite
+# React + Vite + redux + Mantine + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Packages Used
+React: A JavaScript library for building user interfaces.
+Mantine: A React component library for building modern and responsive user interfaces.
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
+Redux Toolkit: A set of tools for efficient Redux development, including RTK Query for data fetching.
+React Router DOM: Declarative routing for React.js applications.
+Redux Persist: A library to persist and rehydrate the Redux store.
+redux-persist-transform-encrypt: Provides encryption for data persisted in Redux.
+crypto-js: A JavaScript library for cryptographic algorithms used for encryption.
+Vite: A fast build tool and development server for modern web projects.
 
 Currently, two official plugins are available:
 
